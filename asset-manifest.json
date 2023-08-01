@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/songsApp/static/css/main.782b9c43.css",
+    "main.js": "/songsApp/static/js/main.3d4ad81a.js",
+    "static/js/787.3f674de7.chunk.js": "/songsApp/static/js/787.3f674de7.chunk.js",
+    "index.html": "/songsApp/index.html",
+    "main.782b9c43.css.map": "/songsApp/static/css/main.782b9c43.css.map",
+    "main.3d4ad81a.js.map": "/songsApp/static/js/main.3d4ad81a.js.map",
+    "787.3f674de7.chunk.js.map": "/songsApp/static/js/787.3f674de7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.782b9c43.css",
+    "static/js/main.3d4ad81a.js"
+  ]
+}
